@@ -12,6 +12,6 @@
 
 ## Autor
 
-<img src="./3386-git-github-projeto_inicial/img/sobre_mim.jpg" alt="Felipe" height="360px" width="420px">
+<img src="./3386-git-github-projeto_inicial/img/sobre_mim.jpg" alt="Felipe" height="200px" width="300px">
 <!-- ![sobre_mim](https://github.com/user-attachments/assets/5c765f30-9ea2-4c65-961d-faa21c1e9f3b)  -->
 
